@@ -9,3 +9,5 @@ Der Film erzählt die Geschichte des Schülers Marty McFly, der versehentlich pe
 * In der Vergangenheit verliebt sich seine Mutter in ihn
 
 > Die Zeitmaschine ist ein DeLorean.
+
+<img src="https://static.kino.de/wp-content/uploads/2018/08/bttf.0.0-rcm950x0.jpg"/>
