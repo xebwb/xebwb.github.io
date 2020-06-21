@@ -7,3 +7,5 @@ Der Film erzählt die Geschichte des Schülers Marty McFly, der versehentlich pe
 * Kommt immer zuspät
 * Spiel E-Gitarre
 * In der Vergangenheit verliebt sich seine Mutter in ihn
+
+> Die Zeitmaschine ist ein DeLorean.
