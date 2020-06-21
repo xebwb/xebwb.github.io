@@ -1,1 +1,1 @@
-# Marty McFly - Aus Außenseiter könne die Geschichte verändern
+# Marty McFly - Auch Außenseiter könne die Geschichte verändern
